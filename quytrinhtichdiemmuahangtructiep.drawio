@@ -1,1 +1,182 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T15:24:48.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="xi07KS41fZrwMdlzdqnR" version="15.4.3" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-22T13:23:11.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="NiHuk2TmPWRd7vMsjoi_" version="15.4.3" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="2586" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-1" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="230" width="1190" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-2" value=":Merchant" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="100" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="ZXP_s9IHGZNQGatwdEvA-2">
+          <mxGeometry x="45" y="70" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="ZXP_s9IHGZNQGatwdEvA-2">
+          <mxGeometry x="51" y="110" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-7" value="&lt;span style=&quot;text-align: center ; font-size: 14px&quot;&gt;Tùy theo yêu cầu&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;fontFamily=Times New Roman;" edge="1" parent="ZXP_s9IHGZNQGatwdEvA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="100" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="86" y="100" />
+            </Array>
+            <mxPoint x="55" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-4" value=":Tada App" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="100" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-9" value="" style="verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;exitX=1.001;exitY=0.489;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="ZXP_s9IHGZNQGatwdEvA-1" target="ZXP_s9IHGZNQGatwdEvA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="236" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-11" value=":Payment Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="100" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="ZXP_s9IHGZNQGatwdEvA-11">
+          <mxGeometry x="45" y="300" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-14" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;[Thanh toán qua ví điện tử]&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="300" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-15" value="&lt;div style=&quot;text-align: center&quot;&gt;[Thanh toán bằng tiền mặt]&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="790" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-18" value=":BasicUser" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="80" width="100" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-20" value="Chọn phương thức &#xa;thanh toán" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" edge="1" parent="1" target="ZXP_s9IHGZNQGatwdEvA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5" y="180.00000000000216" as="sourcePoint" />
+            <mxPoint x="165" y="180.00000000000216" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-23" value="Trả về mã QR" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" edge="1" parent="1" target="ZXP_s9IHGZNQGatwdEvA-3">
+          <mxGeometry x="-0.0653" relative="1" as="geometry">
+            <mxPoint x="170" y="330" as="targetPoint" />
+            <mxPoint x="170" y="330" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-27" value="Tạo mã QR thông tin &#xa;thanh toán" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="279.9999999999999" as="sourcePoint" />
+            <mxPoint x="170" y="279.9999999999999" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-28" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;Yêu cầu quét mã&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.493" width="80" relative="1" as="geometry">
+            <mxPoint x="350" y="370" as="sourcePoint" />
+            <mxPoint x="-5" y="370" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-30" value="Tiến hành quét mã và &#xa;nhập mã PIN" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="420" as="sourcePoint" />
+            <mxPoint x="170" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-35" value="Tiến hành thanh toán" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" edge="1" parent="1" target="ZXP_s9IHGZNQGatwdEvA-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="449.9999999999999" as="sourcePoint" />
+            <mxPoint x="350" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-36" value=":Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="700" y="80" width="100" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-37" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="ZXP_s9IHGZNQGatwdEvA-36">
+          <mxGeometry x="45" y="80" width="10" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-41" value="Trả về thông tin thanh toán " style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="500" as="sourcePoint" />
+            <mxPoint x="532.5" y="499.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-47" value="Xác nhận đơn hàng đã thanh toán " style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;endFill=0;startArrow=classic;startFill=0;" edge="1" parent="1" source="ZXP_s9IHGZNQGatwdEvA-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177.5" y="470" as="sourcePoint" />
+            <mxPoint x="542.5" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-48" value="Gửi thông tin lưu vào database" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;" edge="1" parent="1" target="ZXP_s9IHGZNQGatwdEvA-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="300" as="sourcePoint" />
+            <mxPoint x="545" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="751" y="500" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-51" value="Lưu dữ liệu lên database&amp;nbsp;&lt;br&gt;và tích điểm cho &lt;br&gt;khách hàng" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;fontFamily=Times New Roman;fontSize=14;" edge="1" target="ZXP_s9IHGZNQGatwdEvA-50" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="756" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="786" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-52" value="Thông báo số điểm tích được" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="1" target="ZXP_s9IHGZNQGatwdEvA-37">
+          <mxGeometry x="-0.1504" relative="1" as="geometry">
+            <mxPoint x="180" y="570" as="sourcePoint" />
+            <mxPoint x="532.5" y="570" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-54" value="Nhập thông tin &#xa;giá trị đơn hàng" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;exitX=0.51;exitY=0.668;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZXP_s9IHGZNQGatwdEvA-2" target="ZXP_s9IHGZNQGatwdEvA-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="759.9999999999999" as="sourcePoint" />
+            <mxPoint x="170" y="759.9999999999999" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-56" value="Mở mã QR và chọn &#xa;ưu đãi kèm theo" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;entryX=0.53;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.609;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZXP_s9IHGZNQGatwdEvA-18" target="ZXP_s9IHGZNQGatwdEvA-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5" y="719.4499999999998" as="sourcePoint" />
+            <mxPoint x="170" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-57" value="Trả về mã QR" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;entryX=0.53;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.609;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="749.9999999999998" as="sourcePoint" />
+            <mxPoint x="173" y="749.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-59" value="Quét mã Khách hàng" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;exitX=0.51;exitY=0.668;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="351" y="829.9999999999999" as="sourcePoint" />
+            <mxPoint x="170" y="830.67" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-62" value="Kiểm tra và lấy thông tin mã &lt;br&gt;khách hàng và mã ưu đãi" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;fontFamily=Times New Roman;fontSize=14;exitX=0.499;exitY=0.771;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZXP_s9IHGZNQGatwdEvA-4">
+          <mxGeometry x="-0.6063" y="10" relative="1" as="geometry">
+            <mxPoint x="175" y="890" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="170" y="880" />
+              <mxPoint x="205" y="880" />
+              <mxPoint x="205" y="900" />
+            </Array>
+            <mxPoint x="170" y="900" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXP_s9IHGZNQGatwdEvA-64" value="Kiểm tra UID và mã giảm giá có đúng không" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;entryX=0.49;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.609;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="ZXP_s9IHGZNQGatwdEvA-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="949.9999999999998" as="sourcePoint" />
+            <mxPoint x="353" y="949.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
